@@ -31,13 +31,13 @@ This is because universal quantification, implication, and negation are represen
 
 Moreover, discourse theories such as DRT need to introduce an extra representational layer such as DRSs to distinguish the anaphoric potentials of \refex{ALwnPatC} and \refex{NELwpatC}, since the first sentences of \refex{ALwnPatC} and \refex{NELwpatC} are truth-conditionally equivalent in model-theoretic semantics.
 
-(3) a. A linguist was not present at the class.  He/she must be overslept.\label{ex:ALwnPatC}
-      b. Not every linguist was present at the class.  *He/she must be overslept.\label{ex:NELwpatC}
+(3) a. A linguist was not present at the class.  He/she must be overslept.
+      b. Not every linguist was present at the class.  *He/she must be overslept.
 
 In DTS, \refex{ALwnPatC} and \refex{NELwpatC} have different proof-theoretic statuses: The proof construction in \refex{ALwnPatC} is intuitionistic while that in \refex{NELwpatC} is classical, the latter of which is not allowed in the intuitionistic setting of UDTT.  In other words, DTS explains the different anaphoric potentials of \refex{ALwnPatC} and \refex{NELwpatC} by means of proof construction without assuming an extra semantic layer such as DRSs.
 
 I will also reflect on the extensive research and developments over the past decade.
-Given that the empirical coverage of DTS is getting broader, we will discuss, among other things, representations of generalized quantifiers in \citet{Sundholm1989}, \citet{FoxLappin2005}, \citet{TNB2013}, and \citet{Tanaka2014GQ}; modality and factivity discussed in \citet{Ranta1994}, and \citet{Tanaka2014LENLS}; the phenomena of coercion discussed in \citet{Luo2010,Luo2011,Luo2012,Luo2012LP}, \citet{AsherLuo2012} and \citet{KMB2018}; a unified analysis of conventional implicatures and presuppositions in \citet{BekkiMcCready2014} and \citet{MBY2023}.
+Given that the empirical coverage of DTS is getting broader, we will discuss, among other things, representations of generalized quantifiers in Sundholm (1989), Fox and Lappin (2005), and Tanaka (2014a); modality and factivity discussed in Ranta (1994), and Tanaka (2014b); the phenomena of coercion discussed in Luo (2010,2011,2012a,2012b), Asher and Luo (2012) and Kinoshita, Mineshima and Bekki (2018); a unified analysis of conventional implicatures and presuppositions in Bekki and McCready (2014) and Matsuoka, Bekki and Yanaka (2023).
 
 ## Course plan
 
@@ -47,7 +47,7 @@ Overview of DTS as a compositional theory of meaning in terms of dependent type 
 
 ### Tuesday
 
-I am introducing the semantic composition via DTS. ?Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of \textit{continuation} to remedy the problems. ?Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+I am introducing the semantic composition via DTS. Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of \textit{continuation} to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 ### Wednesday
 
