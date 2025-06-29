@@ -53,7 +53,7 @@ Overview of DTS as a compositional theory of meaning in terms of dependent type 
 
 ### Tuesday
 
-I am introducing the semantic composition via DTS. Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of /continuation/ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of /continuation/ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 - Quantification
   - Type mismatch problem
