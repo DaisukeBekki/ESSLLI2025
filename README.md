@@ -18,7 +18,7 @@ An underspecified type requres a proof of a given type (corresponding to the pre
 This mechanism of DTS serves as an uniform analysis of anaphora and presupposition through the process of underspecification, inheriting the ‘presupposition is anaphora’ paradigm (van der Sandt and Geurts 1991, van der Sandt 1992) and the anaphora resolusion is proof construction'' paradigm (Krahmer and Piwek1999, Piwek and Krahmer 2000).
 
 This DTS setting not only provides a compositional semantic theory with descriptive power enough to cover a wide variety of linguistic phenomena but also gives novel explanations for classical puzzles such as anaphora accessibility and anaphoric potentials.
-For example, the E-type anaphoric link in (1) is predicted to be accessible since a proof from /someone bought a car/ to the existence of a non-human entity is constructable in UDTT.
+For example, the E-type anaphoric link in (1) is predicted to be accessible since a proof from _someone bought a car_ to the existence of a non-human entity is constructable in UDTT.
 
 (1)  Someone bought [a car].  It is parked outside.
 
@@ -53,7 +53,7 @@ Overview of DTS as a compositional theory of meaning in terms of dependent type 
 
 ### Tuesday
 
-I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of /continuation/ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 - Quantification
   - Type mismatch problem
@@ -64,7 +64,7 @@ I am introducing the semantic composition via DTS. Starting from the type mismat
 
 ### Wednesday
 
-This is an introduction to a unified analysis of the use of pronouns, or /dynamics/ of natural language.
+This is an introduction to a unified analysis of the use of pronouns, or _dynamics_ of natural language.
 We will start from introducing an extended logical language "Underspecified dependent type theory (UDTT)" and analyze the dynamics in line with "anaphora resolution as proof construction paradigm."
 
 - UDTT and the underspecified types
