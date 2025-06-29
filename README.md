@@ -18,23 +18,23 @@ An underspecified type requres a proof of a given type (corresponding to the pre
 This mechanism of DTS serves as an uniform analysis of anaphora and presupposition through the process of underspecification, inheriting the ‘presupposition is anaphora’ paradigm (van der Sandt and Geurts 1991, van der Sandt 1992) and the anaphora resolusion is proof construction'' paradigm (Krahmer and Piwek1999, Piwek and Krahmer 2000).
 
 This DTS setting not only provides a compositional semantic theory with descriptive power enough to cover a wide variety of linguistic phenomena but also gives novel explanations for classical puzzles such as anaphora accessibility and anaphoric potentials.
-For example, the E-type anaphoric link in \refex{1} is predicted to be accessible since a proof from \textit{someone bought a car} to the existence of a non-human entity is constructable in UDTT.
+For example, the E-type anaphoric link in (1) is predicted to be accessible since a proof from /someone bought a car/ to the existence of a non-human entity is constructable in UDTT.
 
-(1)  Someone bought [a car].  It stinks.
+(1)  Someone bought [a car].  It is parked outside.
 
-Meanwhile, anaphoric links, as listed in \refex{2}, are predicted to be inaccessible because the required proofs are not constructable:
-This is because universal quantification, implication, and negation are represented by $\Pi$-types, data types of functions from which the intended antecedents cannot be picked up.  This is an explanation purely based on the structures of proofs, fundamentally different from dynamic semantics.
+Meanwhile, anaphoric links, as listed in (2), are predicted to be inaccessible because the required proofs are not constructable:
+This is because universal quantification, implication, and negation are represented by Pi-types, data types of functions from which the intended antecedents cannot be picked up.  This is an explanation purely based on the structures of proofs, fundamentally different from dynamic semantics.
 
-(2) a. Everyone bought [a car]$^i$.  *It$_i$ stinks.
-     b. If John bought [a car]$^i$, it$_i$ must be a Porsche.  *It$_i$ stinks.
-     c. John didn't buy [a car]$^i$.  *It$_i$ stinks.
+(2) a. Everyone bought [a car].  *It is parked outside.
+     b. If John bought [a car], it must be a Porsche.  *It is parked outside.
+     c. John didn't buy [a car].  *It is parked outside.
 
-Moreover, discourse theories such as DRT need to introduce an extra representational layer such as DRSs to distinguish the anaphoric potentials of \refex{ALwnPatC} and \refex{NELwpatC}, since the first sentences of \refex{ALwnPatC} and \refex{NELwpatC} are truth-conditionally equivalent in model-theoretic semantics.
+Moreover, discourse theories such as DRT need to introduce an extra representational layer such as DRSs to distinguish the anaphoric potentials of (3a) and (3b), since the first sentences of (3a) and (3b) are truth-conditionally equivalent in model-theoretic semantics.
 
 (3) a. A linguist was not present at the class.  He/she must be overslept.
       b. Not every linguist was present at the class.  *He/she must be overslept.
 
-In DTS, \refex{ALwnPatC} and \refex{NELwpatC} have different proof-theoretic statuses: The proof construction in \refex{ALwnPatC} is intuitionistic while that in \refex{NELwpatC} is classical, the latter of which is not allowed in the intuitionistic setting of UDTT.  In other words, DTS explains the different anaphoric potentials of \refex{ALwnPatC} and \refex{NELwpatC} by means of proof construction without assuming an extra semantic layer such as DRSs.
+In DTS, (3a) and (3b) have different proof-theoretic statuses: The proof construction in (3a) is intuitionistic while that in (3b) is classical, the latter of which is not allowed in the intuitionistic setting of UDTT.  In other words, DTS explains the different anaphoric potentials of (3a) and (3b) by means of proof construction without assuming an extra semantic layer such as DRSs.
 
 I will also reflect on the extensive research and developments over the past decade.
 Given that the empirical coverage of DTS is getting broader, we will discuss, among other things, representations of generalized quantifiers in Sundholm (1989), Fox and Lappin (2005), and Tanaka (2014a); modality and factivity discussed in Ranta (1994), and Tanaka (2014b); the phenomena of coercion discussed in Luo (2010,2011,2012a,2012b), Asher and Luo (2012) and Kinoshita, Mineshima and Bekki (2018); a unified analysis of conventional implicatures and presuppositions in Bekki and McCready (2014) and Matsuoka, Bekki and Yanaka (2023).
