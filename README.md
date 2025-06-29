@@ -1,6 +1,6 @@
 # ESSLLI2025 course: Composing Meaning via Dependent Types
 
-by Daisuke Bekki (Ochanomizu University, Faculty of Core Research)
+by Daisuke Bekki (Ochanomizu University, Faculty of Core Research) [website](https://github.com/DaisukeBekki)
 
 ## Abstract
 
@@ -46,19 +46,50 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
 
 - [Overview](Bekki2025ESSLLIday1.pdf)
+- Basic notions in proof-theory: syntax, free variables, substitution, typing rules, beta reduction, subject reduction theorem
+- Syntax-Semantics transparency (from CCG to DTS)
+- Pi and Sigma types (proposition depending on proofs)
+- Enumeration types
 
 ### Tuesday
 
-I am introducing the semantic composition via DTS. Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of \textit{continuation} to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+I am introducing the semantic composition via DTS. Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of /continuation/ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+
+- Quantification
+  - Type mismatch problem
+  - Inverse scope readings
+- Star-CCG
+- Common nouns are not types
+- Take away message: combination of continuized CCG and DTS
 
 ### Wednesday
 
-This is an introduction to a unified analysis of presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  Also planning to invite a 30-minute guest talk on the analysis of appositives in DTS.
+This is an introduction to a unified analysis of the use of pronouns, or /dynamics/ of natural language.
+We will start from introducing an extended logical language "Underspecified dependent type theory (UDTT)" and analyze the dynamics in line with "anaphora resolution as proof construction paradigm."
+
+- UDTT and the underspecified types
+- Use of pronouns: Coreference, BVA, E-type anaphora
+- Accessibility I: universal, negation, conditional
+- Take away message: inaccessibility is due to Pi-types
+- Disjoint union types
+- Accessibility II: Disjunction paradigm and killer examples
+- Take away message: anaphora accessibility is a derivability from the context
 
 ### Thursday
 
-We will discuss the analysis of more complex linguistic phenomena, including generalized quantifiers, disjunctions, inverse linking, and comparison between DTS and other proof-theoretic semantics, such as Modern-type-theory semantics.  Also planning to invite a 30-minute guest talk on the categorical semantics of DTS.
+and presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
+Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
+
+- Presupposition
+  - Filtering
+  - Global and local accomodations
+  - Binding problems
+- 30 minutes guest talk on conventional implicatures by [Daiki Matsuoka](https://daiki-matsuoka.com/)
 
 ### Friday
 
-I will go over the current implementation of a type checking/inference, an automated theorem prover for DTS using the Haskell programming language.  Also planning to invite a 30-minute guest talk on the implementation of Neural DTS, an integrated framework of DTS and neural networks.  This will provide insights into the potential applications of DTS in computational linguistics.
+Planning to invite two guest talks on implementations: the first talk will go over the current implementation of CCG parser and an automated theorem prover for DTS using the Haskell programming language.  The second talk will investigate the implementation of Neural DTS, an integrated framework of DTS and neural networks.  This will provide insights into the potential applications of DTS in computational linguistics.
+
+- 30 minutes guest talk on the implementation of CCG and DTS by [Asa Tomita](https://morning85.github.io/) 
+- 30 minutes guest talk on the neural approach toward CCG and DTS by [Sora Tagami](https://bluesky0906.github.io/) 
+- 30 minutes lecture on the computational verificatoin of linguistic theory by Daisuke Bekki
