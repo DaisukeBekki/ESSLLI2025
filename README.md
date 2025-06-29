@@ -45,6 +45,8 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 
 Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
 
+- [Overview](Bekki2025ESSLLIday1.pdf)
+
 ### Tuesday
 
 I am introducing the semantic composition via DTS. Starting from the introduction of combinatory categorial grammar (CCG), the type mismatch problem of quantifiers in the non-subject positions, we will reach the notion of \textit{continuation} to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
