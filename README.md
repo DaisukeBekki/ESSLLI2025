@@ -45,42 +45,38 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 
 Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
 
-- [Overview](Bekki2025ESSLLIday1.pdf)
-- Basic notions in proof-theory: syntax, free variables, substitution, typing rules, beta reduction, subject reduction theorem
-- Syntax-Semantics transparency (from CCG to DTS)
-- Pi and Sigma types (proposition depending on proofs)
-- Enumeration types
+- [Overview](Bekki2025ESSLLIday1.pdf) 27 pages
+- Pi and Sigma types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf)[Chapter 07](DTSbookChapter07wide.pdf)
+- Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15wide.pdf)
 
 ### Tuesday
 
 I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
-- Quantification
-  - Type mismatch problem
-  - Inverse scope readings
-- Star-CCG
-- Common nouns are not types
-- Take away message: combination of continuized CCG and DTS
+- Quantification [Chapter16](DTSbookChapter16wide.pdf)
+- Star-CCG [Chapter 17](DTSbookChapter17wide.pdf)
+
+Take away message: Combination of continuation, CCG and DTS gives a unified solution to the scope and binding 
 
 ### Wednesday
 
 This is an introduction to a unified analysis of the use of pronouns, or _dynamics_ of natural language.
 We will start from introducing an extended logical language "Underspecified dependent type theory (UDTT)" and analyze the dynamics in line with "anaphora resolution as proof construction paradigm."
 
-- UDTT and the underspecified types
-- Use of pronouns: Coreference, BVA, E-type anaphora
-- Accessibility I: universal, negation, conditional
-- Take away message: inaccessibility is due to Pi-types
-- Disjoint union types
-- Accessibility II: Disjunction paradigm and killer examples
-- Take away message: anaphora accessibility is a derivability from the context
+- UDTT and the underspecified types [Chapter 21](DTSbookChapter21wide.pdf)
+- Coreference and BVA [Chapter 22, section 2-](DTSbookChapter22wide.pdf)
+- E-type anaphora [Chapter 23](DTSbookChapter23wide.pdf)
+- Accessibility: universal, negation, conditional [Chapter 23](DTSbookChapter24wide.pdf)
+
+Take away message: Anaphora accessibility is the derivability of a proof
 
 ### Thursday
 
 and presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
-- Presupposition
+
+- Presupposition [Slide](Bekki2025ESSLLIday4.pdf) 29 pages
   - Filtering
   - Global and local accomodations
   - Binding problems
@@ -93,3 +89,8 @@ Planning to invite two guest talks on implementations: the first talk will go ov
 - 30 minutes guest talk on the implementation of CCG and DTS by [Asa Tomita](https://morning85.github.io/) 
 - 30 minutes guest talk on the neural approach toward CCG and DTS by [Sora Tagami](https://bluesky0906.github.io/) 
 - 30 minutes lecture on the computational verificatoin of linguistic theory by Daisuke Bekki
+
+### Alternative materials
+
+- Disjoint union types [Chapter 08](DTSbookChapter08wide.pdf)
+- Accessibility II: Disjunction paradigm and killer examples [Chapter 25](DTSbookChapter25wide.pdf)
