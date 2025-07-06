@@ -45,8 +45,8 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 
 Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
 
-- [Overview](Bekki2025ESSLLIday1.pdf) 27 pages
-- Pi and Sigma types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf)[Chapter 07](DTSbookChapter07wide.pdf)
+- Overview [Slides](Bekki2025ESSLLIday1.pdf) 27 pages
+- Pi and Sigma types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf) [Chapter 07](DTSbookChapter07wide.pdf)
 - Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15wide.pdf)
 
 ### Tuesday
@@ -64,7 +64,7 @@ This is an introduction to a unified analysis of the use of pronouns, or _dynami
 We will start from introducing an extended logical language "Underspecified dependent type theory (UDTT)" and analyze the dynamics in line with "anaphora resolution as proof construction paradigm."
 
 - UDTT and the underspecified types [Chapter 21](DTSbookChapter21wide.pdf)
-- Coreference and BVA [Chapter 22, section 2-](DTSbookChapter22wide.pdf)
+- Coreference and BVA [Chapter 22](DTSbookChapter22wide.pdf), section 2-
 - E-type anaphora [Chapter 23](DTSbookChapter23wide.pdf)
 - Accessibility: universal, negation, conditional [Chapter 23](DTSbookChapter24wide.pdf)
 
@@ -76,7 +76,7 @@ and presupposition and conventional implicature in DTS, including the theory of 
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
 
-- Presupposition [Slide](Bekki2025ESSLLIday4.pdf) 29 pages
+- Presupposition [Slides](Bekki2025ESSLLIday4.pdf) 29 pages
   - Filtering
   - Global and local accomodations
   - Binding problems
