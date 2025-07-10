@@ -46,13 +46,14 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
 
 - Overview [Slides](Bekki2025ESSLLIday1.pdf) 27 pages
-- Pi and Sigma types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf) [Chapter 07](DTSbookChapter07.pdf)
-- Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15.pdf)
+- Pi-types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf)
+- Sigma-types [Chapter 07](DTSbookChapter07.pdf)
 
 ### Tuesday
 
 I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
+- Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15.pdf)
 - Quantification [Chapter16](DTSbookChapter16.pdf)
 - Star-CCG [Chapter 17](DTSbookChapter17.pdf)
 
