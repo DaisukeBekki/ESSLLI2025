@@ -43,21 +43,26 @@ Given that the empirical coverage of DTS is getting broader, we will discuss, am
 
 ### Monday
 
-Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining underspecified types, proof search, and proof conversions.
+Overview of DTS as a compositional theory of meaning in terms of dependent type theory, including a theory of anaphora resolution and presupposition binding by combining type-theoretical notions such as underspecified types, type inference/checkuing, proof search, and proof conversions.
 
-- Overview [Slides](Bekki2025ESSLLIday1.pdf) 27 pages
+- Overview [Slides](Bekki2025ESSLLIday1.pdf) (27 pages)
 - Pi-types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf)
 - Sigma-types [Chapter 07](DTSbookChapter07.pdf)
+
+Take away message: 
+
+- Enumeration types [Chapter 08](DTSbookChapter08.pdf)
 
 ### Tuesday
 
 I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 - Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15.pdf)
-- Quantification [Chapter16](DTSbookChapter16.pdf)
 - Star-CCG [Chapter 17](DTSbookChapter17.pdf)
 
-Take away message: Combination of continuation, CCG and DTS gives a unified solution to the scope and binding 
+Take away message: Combination of continuation, CCG and DTS gives a unified solution to the scope and binding  
+
+- Quantification [Chapter16](DTSbookChapter16.pdf)
 
 ### Wednesday
 
@@ -70,16 +75,14 @@ We will start from introducing an extended logical language "Underspecified depe
 
 Take away message: Anaphora accessibility is the derivability of a proof
 
+- E-type anaphora [Chapter 23](DTSbookChapter23.pdf)
+
 ### Thursday
 
 and presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
-
 - Presupposition [Chapter 25](DTSbookChapter25.pdf)
-  - Filtering
-  - Global and local accomodations
-  - Binding problems
 - 30 minutes guest talk on conventional implicatures by [Daiki Matsuoka](https://daiki-matsuoka.com/)
 
 ### Friday
@@ -88,10 +91,9 @@ Planning to invite two guest talks on implementations: the first talk will go ov
 
 - 30 minutes guest talk on the implementation of CCG and DTS by [Asa Tomita](https://morning85.github.io/) 
 - 30 minutes guest talk on the neural approach toward CCG and DTS by [Sora Tagami](https://bluesky0906.github.io/) 
-- 30 minutes lecture on the computational verificatoin of linguistic theory by Daisuke Bekki [Slides](Bekki2025ESSLLIday5.pdf) 26 pages
+- 30 minutes lecture on the computational verificatoin of linguistic theory by Daisuke Bekki [Slides](Bekki2025ESSLLIday5.pdf) (26 pages)
 
 ### Alternative materials
 
-- E-type anaphora [Chapter 23](DTSbookChapter23.pdf)
 - Disjoint union types [Chapter 08](DTSbookChapter08.pdf)
 - Accessibility II: Disjunction paradigm and killer examples [Chapter 24](DTSbookChapter24.pdf)
