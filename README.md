@@ -48,21 +48,21 @@ Overview of DTS as a compositional theory of meaning in terms of dependent type 
 - Overview [Slides](Bekki2025ESSLLIday1.pdf) (27 pages)
 - Pi-types (proposition depending on proofs) [Chapter 06](DTSbookChapter06.pdf)
 - Sigma-types [Chapter 07](DTSbookChapter07.pdf)
+- Quantification [Chapter16, section 2](DTSbookChapter16.pdf)
 
-Take away message: 
-
+Additional material:
 - Enumeration types [Chapter 08](DTSbookChapter08.pdf)
 
 ### Tuesday
 
-I am introducing the semantic composition via DTS. Starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
+Introducing the semantic composition via DTS, starting from the type mismatch problem and inverse scope readings of quantifiers, we will reach the notion of _continuation_ to remedy the problems.  
+Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 - Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15.pdf)
+- Quantification [Chapter16, section 3,4,5](DTSbookChapter16.pdf)
 - Star-CCG [Chapter 17](DTSbookChapter17.pdf)
 
 Take away message: Combination of continuation, CCG and DTS gives a unified solution to the scope and binding  
-
-- Quantification [Chapter16](DTSbookChapter16.pdf)
 
 ### Wednesday
 
@@ -75,6 +75,7 @@ We will start from introducing an extended logical language "Underspecified depe
 
 Take away message: Anaphora accessibility is the derivability of a proof
 
+Additional material:
 - E-type anaphora [Chapter 23](DTSbookChapter23.pdf)
 
 ### Thursday
