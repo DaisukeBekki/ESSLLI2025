@@ -51,7 +51,7 @@ Overview of DTS as a compositional theory of meaning in terms of dependent type 
 - Quantification [Chapter16, section 2](DTSbookChapter16.pdf)
 
 Additional material:
-- Enumeration types [Chapter 08](DTSbookChapter08.pdf)
+- Enumeration types [Chapter 09](DTSbookChapter09.pdf)
 
 ### Tuesday
 
