@@ -58,7 +58,7 @@ Introducing the semantic composition via DTS, starting from the type mismatch pr
 Then, we will discuss the classical crossover paradigm and its interaction with quantifier raising.
 
 - Syntax-Semantics transparency (from CCG to DTS) [Chapter 15](DTSbookChapter15.pdf)
-- Quantification [Chapter16, section 3-5](DTSbookChapter16.pdf)
+- Quantification [Chapter16, section 3-4](DTSbookChapter16.pdf)
 - Star-CCG [Chapter 17](DTSbookChapter17.pdf)
 
 Take away message: Combination of continuation, CCG and DTS gives a unified solution to the scope and binding  
@@ -82,7 +82,7 @@ Additional material:
 and presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
-- Presupposition [Chapter 25](DTSbookChapter25.pdf)
+- Presupposition [Chapter 26](DTSbookChapter26.pdf)
 - 30 minutes guest talk on conventional implicatures by [Daiki Matsuoka](https://daiki-matsuoka.com/)
 
 ### Friday
