@@ -80,7 +80,7 @@ Take away message: Anaphora accessibility is the derivability of a proof
 We will discuss the analysis of presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
-- Presupposition [Chapter 26](DTSbookChapter26.pdf)
+- Presupposition [Chapter 26](DTSbookChapter26.pdf) [Slides](2025ESSLLI_matsuoka.pdf)
 - 30 minutes guest talk on conventional implicatures by [Daiki Matsuoka](https://daiki-matsuoka.com/)
 
 ### Friday
