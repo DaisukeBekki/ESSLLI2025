@@ -70,16 +70,14 @@ We will start from introducing an extended logical language "Underspecified depe
 
 - UDTT and the underspecified types [Chapter 21](DTSbookChapter21.pdf)
 - Coreference and BVA [Chapter 22](DTSbookChapter22.pdf), section 2-
-- Accessibility: universal, negation, conditional [Chapter 23](DTSbookChapter24.pdf)
+- E-type anaphora [Chapter 23](DTSbookChapter23.pdf)
+- Accessibility: universal, negation, conditional [Chapter 24](DTSbookChapter24.pdf)
 
 Take away message: Anaphora accessibility is the derivability of a proof
 
-Additional material:
-- E-type anaphora [Chapter 23](DTSbookChapter23.pdf)
-
 ### Thursday
 
-and presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
+We will discuss the analysis of presupposition and conventional implicature in DTS, including the theory of projection and accommodations.  I also compare DTS and dynamic semantics, particularly the two-dimensional semantics that suffers from the binding problem.  
 Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
 - Presupposition [Chapter 26](DTSbookChapter26.pdf)
