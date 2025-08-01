@@ -87,7 +87,7 @@ Also planning to invite a 30-minute guest talk on the analysis of CIs in DTS.
 
 Planning to invite two guest talks on implementations: the first talk will go over the current implementation of CCG parser and an automated theorem prover for DTS using the Haskell programming language.  The second talk will investigate the implementation of Neural DTS, an integrated framework of DTS and neural networks.  This will provide insights into the potential applications of DTS in computational linguistics.
 
-- 30 minutes guest talk on the implementation of CCG and DTS by [Asa Tomita](https://morning85.github.io/) 
+- 30 minutes guest talk on the implementation of CCG and DTS by [Asa Tomita](https://morning85.github.io/) [Slides](2025ESSLLI_tomita.pdf) 
 - 30 minutes guest talk on the neural approach toward CCG and DTS by [Sora Tagami](https://www.linkedin.com/in/bluesky0906) [Slides](2025ESSLLI_tagami.pdf)
 - 30 minutes lecture on the computational verificatoin of linguistic theory by Daisuke Bekki [Slides](Bekki2025ESSLLIday5.pdf) (26 pages)
 
